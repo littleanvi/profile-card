@@ -105,6 +105,10 @@ body{
 
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
+.profile-card button,a {
+    text-decoration: none;
+    color: white;
+}
 .profile-card button:hover {
     transform: translateY(-3px);
 
